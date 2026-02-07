@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "IntegrativeProgramming", "IntegrativeProgramming", "{22CFF874-ABBD-0B1E-61C6-1D8EB8DA0B38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrelimProject", "IntegrativeProgramming\PrelimProject\PrelimProject.csproj", "{246AD8F0-9715-B0EA-4D76-E9DB337CDE4C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{246AD8F0-9715-B0EA-4D76-E9DB337CDE4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{246AD8F0-9715-B0EA-4D76-E9DB337CDE4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{246AD8F0-9715-B0EA-4D76-E9DB337CDE4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{246AD8F0-9715-B0EA-4D76-E9DB337CDE4C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{246AD8F0-9715-B0EA-4D76-E9DB337CDE4C} = {22CFF874-ABBD-0B1E-61C6-1D8EB8DA0B38}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD2EC10F-DBDE-461A-B783-25C16727D580}
+	EndGlobalSection
+EndGlobal
